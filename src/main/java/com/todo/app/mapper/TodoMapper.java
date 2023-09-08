@@ -21,5 +21,8 @@ public interface TodoMapper {
     public void update(Todo todo);
     // 課題削除
     public void delete();
-    
 }
+
+
+
+
